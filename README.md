@@ -91,9 +91,3 @@ To contribute to Reserve Bus, please follow these steps:
 - Familiarity with npm and package management in JavaScript projects.
 - Strong skills in creating user-friendly interfaces with React.
 
-## License
-- [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Badges
-[![Built with React](https://img.shields.io/badge/built%20with-React-61DAFB.svg)](https://reactjs.org)
